@@ -12,7 +12,17 @@
       "horario": "08:00 - 09:30",
       "turno": "Matutino",
       "descricao": "Contempla a exploração da sonoridade do instrumento, abrangendo conhecimentos musicais práticos e teóricos, desenvolvimento de habilidades motoras e acordes básicos.",
-      "imagemUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=800"
+      "imagemUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=800",
+      "documentos": [
+        {
+         "id": 1,
+          "nome": "aula_teclado.pdf",
+          "url": "https://github.com/frbentes/cursos/blob/main/aula_teclado.pdf"
+        }
+      ],
+      "midias": [
+        "https://youtu.be/2l2O86Ubm-s?si=2W5XNXzzGMwWaTJM", "https://youtu.be/uaXiJBtrabI?si=vxTcGNpvMtsq7kXb"
+      ]
     },
     {
       "id": 2,
@@ -26,7 +36,9 @@
       "horario": "09:30 - 11:00",
       "turno": "Matutino",
       "descricao": "Contempla a exploração da sonoridade do instrumento, abrangendo conhecimentos musicais práticos e teóricos, desenvolvimento de habilidades motoras e acordes básicos.",
-      "imagemUrl": "https://images.unsplash.com/photo-1552422535-c45813c61732?w=800"
+      "imagemUrl": "https://images.unsplash.com/photo-1552422535-c45813c61732?w=800",
+      "documentos": [],
+      "midias": []
     },
     {
       "id": 3,
@@ -40,7 +52,17 @@
       "horario": "09:30 - 11:00",
       "turno": "Matutino",
       "descricao": "O curso proporciona o aprendizado prático e teórico, enfatizando a história do instrumento, primeiros acordes, solos em tablaturas, ritmos, dedilhados simples e percepção musical.",
-      "imagemUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800"
+      "imagemUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800",
+      "documentos": [
+        {
+         "id": 2,
+          "nome": "aula_violao.pdf",
+          "url": "https://github.com/frbentes/cursos/blob/main/aula_violao.pdf"
+        }
+      ],
+      "midias": [
+        "https://youtu.be/J5j3oxjlnZI?si=fBpjwbeRjPcX0Ibz"
+      ]
     },
     {
       "id": 4,
@@ -54,7 +76,9 @@
       "horario": "15:20 - 16:50",
       "turno": "Vespertino",
       "descricao": "O curso proporciona o aprendizado prático e teórico, enfatizando a história do instrumento, primeiros acordes, solos em tablaturas, ritmos, dedilhados simples e percepção musical.",
-      "imagemUrl": "https://images.unsplash.com/photo-1556379118-7034d926d258?w=800"
+      "imagemUrl": "https://images.unsplash.com/photo-1556379118-7034d926d258?w=800",
+      "documentos": [],
+      "midias": []
     },
     {
       "id": 5,
@@ -68,7 +92,9 @@
       "horario": "08:00 - 09:30",
       "turno": "Matutino",
       "descricao": "O foco principal do curso de Violino é apresentar o instrumento, suas particularidades e fornecer ferramentas que possibilitem aos concluintes executar músicas e peças de nível elementar.",
-      "imagemUrl": "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?w=800"
+      "imagemUrl": "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?w=800",
+      "documentos": [],
+      "midias": []
     },
     {
       "id": 6,
@@ -82,7 +108,17 @@
       "horario": "15:30 - 16:30",
       "turno": "Vespertino",
       "descricao": "No curso a criança é estimulada ao aprendizado da Dança de forma lúdica e criativa, sentindo, percebendo e conhecendo o corpo com suas possibilidades de movimento e expressão na primeira fase.",
-      "imagemUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800"
+      "imagemUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800",
+      "documentos": [
+        {
+         "id": 3,
+          "nome": "aula_danca.pdf",
+          "url": "https://github.com/frbentes/cursos/blob/main/aula_danca.pdf"
+        }
+      ],
+      "midias": [
+        "https://youtu.be/Adj42neD8Jc?si=J_uZchTaYXQVyCBX"
+      ]
     }
   ]
 }
