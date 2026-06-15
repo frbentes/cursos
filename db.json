@@ -120,5 +120,35 @@
         "https://youtu.be/Adj42neD8Jc?si=J_uZchTaYXQVyCBX"
       ]
     }
-  ]
+  ],
+  "student": {
+    "id": 1,
+    "nome": "Aluno 1",
+    "email": "aluno@gmail.com",
+    "cursos": [
+      {
+      "id": 1,
+      "unidade": "Aníbal Beça",
+      "nucleo": "Música",
+      "nome": "Teclado",
+      "descricao": "Contempla a exploração da sonoridade do instrumento, abrangendo conhecimentos musicais práticos e teóricos, desenvolvimento de habilidades motoras e acordes básicos.",
+      "imagemUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=800",
+      "documentos": [
+        {
+         "id": 1,
+          "nome": "aula_teclado.pdf",
+          "url": "https://github.com/frbentes/cursos/blob/main/aula_teclado.pdf"
+        },
+        {
+         "id": 2,
+          "nome": "aula_violao.pdf",
+          "url": "https://github.com/frbentes/cursos/blob/main/aula_violao.pdf"
+        }
+      ],
+      "midias": [
+        "https://youtu.be/2l2O86Ubm-s?si=2W5XNXzzGMwWaTJM", "https://youtu.be/uaXiJBtrabI?si=vxTcGNpvMtsq7kXb"
+      ]
+      }
+    ]
+  }
 }
