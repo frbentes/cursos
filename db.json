@@ -122,22 +122,30 @@
          "id": 1,
           "nome": "aula_teclado.pdf",
           "url": "https://github.com/frbentes/cursos/blob/main/aula_teclado.pdf"
-        },
+        }
+      ],
+      "midias": [
+        "https://youtu.be/2l2O86Ubm-s?si=2W5XNXzzGMwWaTJM", "https://youtu.be/uaXiJBtrabI?si=vxTcGNpvMtsq7kXb"
+      ]
+      },
+      {
+      "id": 3,
+      "unidade": "Aníbal Beça",
+      "nucleo": "Música",
+      "nome": "Violão",
+      "descricao": "O curso proporciona o aprendizado prático e teórico, enfatizando a história do instrumento, primeiros acordes, solos em tablaturas, ritmos, dedilhados simples e percepção musical.",
+      "imagemUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800",
+      "documentos": [
         {
          "id": 2,
           "nome": "aula_violao.pdf",
           "url": "https://github.com/frbentes/cursos/blob/main/aula_violao.pdf"
-        },
-        {
-         "id": 3,
-          "nome": "aula_danca.pdf",
-          "url": "https://github.com/frbentes/cursos/blob/main/aula_danca.pdf"
         }
       ],
       "midias": [
-        "https://youtu.be/2l2O86Ubm-s?si=2W5XNXzzGMwWaTJM", "https://youtu.be/uaXiJBtrabI?si=vxTcGNpvMtsq7kXb", "https://youtu.be/Adj42neD8Jc?si=J_uZchTaYXQVyCBX" 
+        "https://youtu.be/J5j3oxjlnZI?si=fBpjwbeRjPcX0Ibz"
       ]
-      }
+    }
     ]
   }
 }
