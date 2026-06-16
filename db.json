@@ -115,6 +115,8 @@
       "unidade": "Aníbal Beça",
       "nucleo": "Música",
       "nome": "Teclado",
+      "dia": "Ter/Qui",
+      "horario": "08:00 - 09:30",  
       "descricao": "Contempla a exploração da sonoridade do instrumento, abrangendo conhecimentos musicais práticos e teóricos, desenvolvimento de habilidades motoras e acordes básicos.",
       "imagemUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=800",
       "documentos": [
@@ -133,6 +135,8 @@
       "unidade": "Aníbal Beça",
       "nucleo": "Música",
       "nome": "Violão",
+      "dia": "Ter/Qui",
+      "horario": "09:30 - 11:00",  
       "descricao": "O curso proporciona o aprendizado prático e teórico, enfatizando a história do instrumento, primeiros acordes, solos em tablaturas, ritmos, dedilhados simples e percepção musical.",
       "imagemUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800",
       "documentos": [
